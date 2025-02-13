@@ -79,7 +79,7 @@ Me chamo Guilherme Dias Ferreira, tenho 18 anos e sou natural de Viracity. Concl
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 <img 
     align="left" 
