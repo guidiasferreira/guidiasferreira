@@ -5,7 +5,7 @@
 Me chamo Guilherme Dias Ferreira, tenho 18 anos e sou natural de Viracity. Concluí o ensino médio na ETEC de Bebedouro, com o curso técnico em informática para internet. Atualmente, estou cursando Big Data na FATEC de Bebedouro.
 
 <p align="left">
-    <a href="https://www.youtube.com/@guidiasferreira?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/guilherme-dias-ferreira-/">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
