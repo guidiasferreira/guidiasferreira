@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Dias Ferreira
+# 🤓 Guilherme Dias Ferreira
 
 **`Desenvolvedor FullStack`**
 
