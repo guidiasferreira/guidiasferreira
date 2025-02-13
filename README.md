@@ -1,4 +1,4 @@
-# 🤓 Guilherme Dias Ferreira
+### 🤓 Guilherme Dias Ferreira
 
 **`Desenvolvedor FullStack`**
 
@@ -37,7 +37,7 @@ Me chamo Guilherme Dias Ferreira, tenho 18 anos e sou natural de Viracity. Concl
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
