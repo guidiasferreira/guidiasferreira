@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Dias Ferreira, tenho 18 anos e sou natural de Viracity. Concluí o ensino médio na ETEC de Bebedouro, com o curso técnico em informática para internet. Atualmente, estou cursando Big Data na FATEC de Bebedouro.
+Olá, eu sou o Guilherme Dias Ferreira, atualmente tenho 18 anos e sou natural de Viradouro-SP. Sou apaixonado por tecnologia desde criança e aperfeiçoei isso, durante o ensino médio e técnico que fiz na Escola Técnica Estadual Professor Idio Zucchi - Bebedouro. Atualmente, estou cursando o ensino superior em Big Data na Fatec Bebedouro - Faculdade de Tecnologia "Jorge Caram Sabbag", onde estou aprendendo diversas tecnologias voltadas principalmente para soluções agrícolas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-dias-ferreira-/">
