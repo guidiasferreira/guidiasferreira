@@ -83,11 +83,12 @@ Olá, eu sou o Guilherme Dias Ferreira, atualmente tenho 18 anos e sou natural d
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+          
 />
 
 <br/>
