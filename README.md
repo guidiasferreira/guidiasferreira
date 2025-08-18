@@ -1,6 +1,6 @@
 ### 🤓 Guilherme Dias Ferreira
 
-**`Desenvolvedor Júnior`**
+**`Programador Júnior`**
 
 Olá, eu sou o Guilherme Dias Ferreira, atualmente tenho 19 anos e sou natural de Viradouro-SP. Sou apaixonado por tecnologia desde criança e aperfeiçoei isso, durante o ensino médio e técnico que fiz na Escola Técnica Estadual Professor Idio Zucchi - Bebedouro. Atualmente, estou cursando o ensino superior em Big Data na Fatec Bebedouro - Faculdade de Tecnologia "Jorge Caram Sabbag", onde estou aprendendo diversas tecnologias voltadas principalmente para soluções agrícolas.
 
